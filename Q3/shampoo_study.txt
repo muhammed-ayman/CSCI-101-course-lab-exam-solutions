@@ -1,0 +1,15 @@
+sparkle, 15, 6
+pantene, 45, 7
+tresemmee,70, 9
+sparkle, 14, 6
+pantene, 50, 9
+tresemmee,60, 9
+sparkle, 13, 6
+pantene, 40, 10
+tresemmee,80, 10
+sparkle, 30, 10
+pantene, 40, 2
+tresemmee,70, 8
+sparkle, 18, 9
+pantene, 43, 9
+tresemmee,77, 9
